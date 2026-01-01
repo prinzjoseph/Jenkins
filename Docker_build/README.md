@@ -11,5 +11,5 @@ In the Build stage, build an image named stregi01.stratos.xfusioncorp.com:5000/n
 Jenkins file Dependencies:
 
 Need Plugins:
-Git
+Git,
 Docker Pipeline
